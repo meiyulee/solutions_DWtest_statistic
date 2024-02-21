@@ -8,6 +8,12 @@
 
 <div align=center><img src="https://github.com/meiyulee/solutions_on_DWtest_statistic/blob/main/cover.jpg?raw=true" width="50%"></div>
 
+# Advantages:
+
+1. free to setup sample size
+2. free to setup distribution
+3. provide the true critical values for DW statistic under specific sample size and samples from population distribution
+
 # Joural papers:
 
 - Mei-Yu Lee, 2016, On the DurbinWatson Statistic Based on a Z-Test in Large Samples, *International Journal of Computational Economics and Econometrics*, 6(1), 114-121.
