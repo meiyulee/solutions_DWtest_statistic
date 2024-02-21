@@ -15,3 +15,7 @@
 - Mei-Yu Lee, 2014, Computer Simulates the Effect of Internal Restriction on Residuals in Linear Regression Model with First-order Autoregressive Procedures, *Journal of Statistical and Econometric Methods*, 3(3), 1-22.
 - Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, *Journal of Accounting Finance & Management Strateg*y, 9(1), 115-132.
 - 李玫郁，「Durbin-Watson 檢定的限制」，2013台灣計量經濟學會年會，台灣，台北：國立台灣大學。
+
+# Custom-made
+
+This is a significant improvement over the original Durbin-Watson test statistic. It can provide you with accuracy in RNNs, avoiding the unknown risks brought by incorrect critical values. For customization, please contact prsimulated@gmail.com.
