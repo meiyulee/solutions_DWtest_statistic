@@ -10,8 +10,8 @@
 
 # Joural papers:
 
-- Mei-Yu Lee, 2016, On the DurbinWatson Statistic Based on a Z-Test in Large Samples, International Journal of Computational Economics and Econometrics, 6(1), 114-121.
-- Mei-Yu Lee, 2014, The Effect of Nonzero Autocorrelation Coefficients on the Distributions of Durbin-Watson Test Estimator: Three Autoregressive Models, Expert Journal of Economics, 2(3), 85-99.
-- Mei-Yu Lee, 2014, Computer Simulates the Effect of Internal Restriction on Residuals in Linear Regression Model with First-order Autoregressive Procedures, Journal of Statistical and Econometric Methods, 3(3), 1-22.
-- Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, Journal of Accounting Finance & Management Strategy, 9(1), 115-132.
+- Mei-Yu Lee, 2016, On the DurbinWatson Statistic Based on a Z-Test in Large Samples, *International Journal of Computational Economics and Econometrics*, 6(1), 114-121.
+- Mei-Yu Lee, 2014, The Effect of Nonzero Autocorrelation Coefficients on the Distributions of Durbin-Watson Test Estimator: Three Autoregressive Models, *Expert Journal of Economics*, 2(3), 85-99.
+- Mei-Yu Lee, 2014, Computer Simulates the Effect of Internal Restriction on Residuals in Linear Regression Model with First-order Autoregressive Procedures, *Journal of Statistical and Econometric Methods*, 3(3), 1-22.
+- Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, *Journal of Accounting Finance & Management Strateg*y, 9(1), 115-132.
 - 李玫郁，「Durbin-Watson 檢定的限制」，2013台灣計量經濟學會年會，台灣，台北：國立台灣大學。
